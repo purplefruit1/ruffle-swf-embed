@@ -1,3 +1,7 @@
+# Flash Player used for AUGames, originally made by nosamu with extra games added by us for my website (AUGames) -realtherealer
+If you want to use this for your own website, refer to our guides on the AUG66 repo.
+
+[original readme]
 # nosamu's web testing ground
 Useful web tools and demos, mostly related to Flash emulation.
 
