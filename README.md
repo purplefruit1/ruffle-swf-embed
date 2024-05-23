@@ -1,5 +1,5 @@
 # Flash Player used for AUGames, originally made by nosamu with extra games added by us for my website (AUGames) -realtherealer
-If you want to use this for your own website, refer to our guides on the AUG66 repo. This repo is now maintained by RTR (me) as I own AUGames.
+If you want to use this for your own website, refer to our guides on the AUG66 repo. This repo is now maintained by RTR (me) as I own AUGames. AUGames also uses some of the tools on this website including (but not limited to) Ruffle Testing, AwayFL Testing and WAFlash Testing.
 
 [original readme]
 # nosamu's web testing ground
